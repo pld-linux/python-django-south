@@ -1,12 +1,12 @@
 Summary:	Intelligent schema migrations for Django apps
 Name:		python-django-south
-Version:	0.7.2
+Version:	0.7.3
 Release:	1
 License:	ASL 2.0
 Group:		Development/Languages
 URL:		http://south.aeracode.org
 Source0:	http://www.aeracode.org/releases/south/south-%{version}.tar.gz
-# Source0-md5:	4c6b60b38a9464509f2671ae540e1446
+# Source0-md5:	693a2a7a57b29c49bc177fe951e04767
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
 BuildRequires:	python-modules
