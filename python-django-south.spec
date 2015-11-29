@@ -11,7 +11,7 @@ BuildRequires:	python-devel
 BuildRequires:	python-distribute
 BuildRequires:	python-modules
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-django
 Obsoletes:	Django-south
 BuildArch:	noarch
